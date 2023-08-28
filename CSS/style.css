@@ -13,7 +13,9 @@ body, html {
   padding-top: 10%;
 }
 
-
+#GetStarted h1 h2 h5 a {
+  padding-top: 5%;
+}
 
 
 h4 {
