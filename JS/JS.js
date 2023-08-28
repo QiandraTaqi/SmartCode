@@ -75,7 +75,3 @@ Vue.component('card', {
 const app = new Vue({
   el: '#app'
 });
-
-window.onload = function () {
-  document.body.classList.add("loaded");
- };
